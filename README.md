@@ -12,7 +12,7 @@ Read the data into pandas
 ### 📉 Exploratory Data Analysis (EDA)
 
 
-The datasets really exposed some valuable insights regarding our topic which i'd be sharing some insights
+The datasets really exposed some valuable insights regarding our topic which i'd be sharing some of the observation
 
 • It was observed that men shopped more than women
 
